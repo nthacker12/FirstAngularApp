@@ -52,7 +52,8 @@
     "rxjs-tslint": "^0.1.7",
     "ts-node": "~3.0.4",
     "tslint": "^5.18.0",
-    "typescript": "^3.5.3",
-    "webpack": "^4.38.0"
+    "typescript": "^3.4.5",
+    "webpack": "^4.38.0",
+    "webpack-dev-server": "^3.7.2"
   }
 }
